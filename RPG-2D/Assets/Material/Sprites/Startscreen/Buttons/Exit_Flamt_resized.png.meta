@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: 58890cf0456db8c4e8612350de69783e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8845853173459229011
+    second: Exit_Flamt_resized_0
+  - first:
+      213: -42979019772599292
+    second: Exit_Flamt_resized_1
+  - first:
+      213: 8953249126924260239
+    second: Exit_Flamt_resized_2
+  - first:
+      213: -3939653319527704644
+    second: Exit_Flamt_resized_3
+  - first:
+      213: 7170615625505248897
+    second: Exit_Flamt_resized_4
+  - first:
+      213: -4023079907958570415
+    second: Exit_Flamt_resized_5
+  - first:
+      213: 5705540515893614505
+    second: Exit_Flamt_resized_6
+  - first:
+      213: 9204527910592724982
+    second: Exit_Flamt_resized_7
+  - first:
+      213: 3331685958439416404
+    second: Exit_Flamt_resized_8
+  - first:
+      213: 3105357447493013164
+    second: Exit_Flamt_resized_9
+  - first:
+      213: 1965009544482792654
+    second: Exit_Flamt_resized_10
+  - first:
+      213: 7032253957168186056
+    second: Exit_Flamt_resized_11
+  - first:
+      213: 1245962654687951102
+    second: Exit_Flamt_resized_12
+  - first:
+      213: -639323209367004177
+    second: Exit_Flamt_resized_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 66
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3599c4b0898c2ca70800000000000000
+      internalID: 8845853173459229011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 66
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 404e8a92fce476ff0800000000000000
+      internalID: -42979019772599292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 66
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8395e305a4504c70800000000000000
+      internalID: 8953249126924260239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_3
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 66
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb7dc57dd2a8359c0800000000000000
+      internalID: -3939653319527704644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 44
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1861b1b7be4238360800000000000000
+      internalID: 7170615625505248897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 44
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1524e1f83262b28c0800000000000000
+      internalID: -4023079907958570415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_6
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 44
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a71075bed62e2f40800000000000000
+      internalID: 5705540515893614505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 44
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ff3c04fd5d0dbf70800000000000000
+      internalID: 9204527910592724982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 22
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45230f72ab68c3e20800000000000000
+      internalID: 3331685958439416404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_9
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 22
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cae4f664522781b20800000000000000
+      internalID: 3105357447493013164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_10
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 22
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4262705cd154b10800000000000000
+      internalID: 1965009544482792654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_11
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 22
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2485f27b5979160800000000000000
+      internalID: 7032253957168186056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8f31cde6c8a4110800000000000000
+      internalID: 1245962654687951102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Exit_Flamt_resized_13
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 0
+        width: 70
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: feb5409adeaa027f0800000000000000
+      internalID: -639323209367004177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

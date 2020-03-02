@@ -1,10 +1,11 @@
 ScriptsOnlyBuild:
   usedScripts:
     Assembly-CSharp.dll:
-    - Btn_NextScene
-    - Btn_QuitGame
+    - Btn_Clicked
     - Btn_Sounds
     - ImageAnimator
+    - QuitGame
+    - SwitchScene
     Unity.2D.Tilemap.Editor.dll:
     - UnityEditor.Tilemaps.GridPaintingState
     - UnityEditor.Tilemaps.GridPaletteBrushes
@@ -19,9 +20,9 @@ ScriptsOnlyBuild:
     - UnityEditor.Graphs.AnimationStateMachine.AnyStateNode
     - UnityEditor.Graphs.AnimationStateMachine.Graph
     - UnityEditor.Graphs.AnimationStateMachine.GraphGUI
-    - UnityEditor.Graphs.AnimationStateMachine.StateMachineNode
+    - UnityEditor.Graphs.AnimationStateMachine.StateEditor
+    - UnityEditor.Graphs.AnimationStateMachine.StateMachineBehaviourEditor
     - UnityEditor.Graphs.AnimationStateMachine.StateNode
-    - UnityEditor.Graphs.AnimatorControllerTool
     UnityEditor.TestRunner.dll:
     - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
     - UnityEditor.TestTools.TestRunner.TestListCacheData
@@ -57,11 +58,11 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11322}
     - Class: 114
-      Script: {instanceID: 11778}
+      Script: {instanceID: 11776}
     - Class: 114
-      Script: {instanceID: 12696}
+      Script: {instanceID: 12698}
     - Class: 114
-      Script: {instanceID: 13078}
+      Script: {instanceID: 13082}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 128
@@ -95,6 +96,8 @@ ScriptsOnlyBuild:
       Script: {instanceID: 0}
     - Class: 91
       Script: {instanceID: 0}
+    - Class: 95
+      Script: {instanceID: 0}
     - Class: 104
       Script: {instanceID: 0}
     - Class: 114
@@ -102,21 +105,23 @@ ScriptsOnlyBuild:
     - Class: 114
       Script: {instanceID: 11362}
     - Class: 114
-      Script: {instanceID: 11778}
+      Script: {instanceID: 11776}
     - Class: 114
       Script: {instanceID: 12186}
     - Class: 114
       Script: {instanceID: 12440}
     - Class: 114
-      Script: {instanceID: 12696}
+      Script: {instanceID: 12574}
     - Class: 114
-      Script: {instanceID: 13078}
+      Script: {instanceID: 12698}
     - Class: 114
-      Script: {instanceID: 14250}
+      Script: {instanceID: 13082}
     - Class: 114
-      Script: {instanceID: 18776}
+      Script: {instanceID: 13778}
     - Class: 114
-      Script: {instanceID: 21206}
+      Script: {instanceID: 13848}
+    - Class: 114
+      Script: {instanceID: 14698}
     - Class: 115
       Script: {instanceID: 0}
     - Class: 157
@@ -428,6 +433,12 @@ ScriptsOnlyBuild:
     className: TimelineAsset
   - hash:
       serializedVersion: 2
+      Hash: 352a2593b29ac2829983f421beef6d4a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Btn_Sounds
+  - hash:
+      serializedVersion: 2
       Hash: 3b760e6526e13f7504f59e210145899a
     assemblyName: Unity.TextMeshPro.dll
     namespaceName: TMPro
@@ -560,22 +571,22 @@ ScriptsOnlyBuild:
     className: PlayableTrack
   - hash:
       serializedVersion: 2
-      Hash: 352a2593b29ac2829983f421beef6d4a
+      Hash: f8423c6f75c2a96b56bb5d45027eabab
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Btn_Sounds
+    className: SwitchScene
   - hash:
       serializedVersion: 2
-      Hash: 479a4557b324b0fc0980de5f98b8d528
+      Hash: 4dad2e3fdc5498bd2cc395646443c01d
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Btn_NextScene
+    className: Btn_Clicked
   - hash:
       serializedVersion: 2
-      Hash: 8346419b5dc4c7da98ae95a27f788caa
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
     assemblyName: Assembly-CSharp.dll
     namespaceName: 
-    className: Btn_QuitGame
+    className: QuitGame
   platform: 19
   scenePathNames:
   - Assets/Scenes/Startmenu.unity

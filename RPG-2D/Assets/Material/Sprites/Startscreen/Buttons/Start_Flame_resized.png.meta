@@ -1,0 +1,439 @@
+fileFormatVersion: 2
+guid: bac43c868920c1c42ac3e57cf79597c5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7129732459431350441
+    second: Start_Flame_resized_0
+  - first:
+      213: 5733905004137007334
+    second: Start_Flame_resized_1
+  - first:
+      213: -6866371899162726020
+    second: Start_Flame_resized_2
+  - first:
+      213: 3269101577132352954
+    second: Start_Flame_resized_3
+  - first:
+      213: -7620585375678042648
+    second: Start_Flame_resized_4
+  - first:
+      213: 7618354642372500133
+    second: Start_Flame_resized_5
+  - first:
+      213: 3098954854187148553
+    second: Start_Flame_resized_6
+  - first:
+      213: -2211699899416444590
+    second: Start_Flame_resized_7
+  - first:
+      213: 8133012836544172343
+    second: Start_Flame_resized_8
+  - first:
+      213: 2997072103910737080
+    second: Start_Flame_resized_9
+  - first:
+      213: -3110685203897074944
+    second: Start_Flame_resized_10
+  - first:
+      213: 2163805804426174071
+    second: Start_Flame_resized_11
+  - first:
+      213: 2783667725445441099
+    second: Start_Flame_resized_12
+  - first:
+      213: -6064389318136625934
+    second: Start_Flame_resized_13
+  externalObjects: {}
+  serializedVersion: 10
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Start_Flame_resized_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 51
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a05afb95e5e1f260800000000000000
+      internalID: 7129732459431350441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_1
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 51
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e8cb63c83ce29f40800000000000000
+      internalID: 5733905004137007334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 51
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c717ea6232fb5b0a0800000000000000
+      internalID: -6866371899162726020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_3
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 51
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ab5a4af509e2e5d20800000000000000
+      internalID: 3269101577132352954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 34
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ed6c26f9fd3e3690800000000000000
+      internalID: -7620585375678042648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_5
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 34
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa9f87fe25d9b960800000000000000
+      internalID: 7618354642372500133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_6
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 34
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9052cca5503b10b20800000000000000
+      internalID: 3098954854187148553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_7
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 34
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2510489d8a67e41e0800000000000000
+      internalID: -2211699899416444590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 17
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73158e395144ed070800000000000000
+      internalID: 8133012836544172343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_9
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 17
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b405d7033db79920800000000000000
+      internalID: 2997072103910737080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_10
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 17
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bb6a5c940a4d4d0800000000000000
+      internalID: -3110685203897074944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_11
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 17
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77e10cf2ae1670e10800000000000000
+      internalID: 2163805804426174071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4625eb3c0391a620800000000000000
+      internalID: 2783667725445441099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Start_Flame_resized_13
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 0
+        width: 62
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f40bc0bb06f6dba0800000000000000
+      internalID: -6064389318136625934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
